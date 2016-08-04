@@ -1,0 +1,35 @@
+_repo: Armadale_1895
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: "Armadale (1866) is a mystery novel by Wilkie Collins.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1895'
+  wikidata: Q4792516
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Fate and fatalism -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Men -- England -- Fiction'
+- !lcsh 'Psychological fiction'
+- GITenberg
+title: Armadale
+url: http://www.gutenberg.org/ebooks/1895
+wikipedia:
+- https://en.wikipedia.org/wiki/Armadale_(novel)
