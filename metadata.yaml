@@ -1,5 +1,8 @@
 _repo: Armadale_1895
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collins, Wilkie
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
 description: "Armadale (1866) is a mystery novel by Wilkie Collins.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1895#Armadale
 gutenberg_issued: '1999-09-01'
 gutenberg_type: Text
 identifiers:
